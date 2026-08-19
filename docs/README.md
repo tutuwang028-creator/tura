@@ -1,6 +1,6 @@
 # Tura documentation
 
-tutuw-try-doc
+tutuw-try-doc，is trash,no rep
 Tura is a terminal-native developer tool that turns intent into verified code
 changes. The emphasis is on reading the repository first, keeping an audit
 trail, and proving the result before calling the work done.
